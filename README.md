@@ -1,5 +1,5 @@
 ## read me:
-hi! my name is shannon and this is my github account. 
+hi! my name is shannon and this is my github account, currently working on developing my website/personal projects at the moment. 
 
 <!--
 **shannon-xiao/shannon-xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
